@@ -13,7 +13,7 @@ BERT and DistilBERT models are implemented to solve _Multiclass classification_ 
 Obtained training and test results in both tasks respect the two models are stored in **results** folder.
 
 ## Memory
-This work is the topic of my Master Thesis. For this reason, the memory is also published with more information and details in case it could be useful to check it. The file is: **memory.pdf**.
+This work is the topic of my master thesis. For this reason, the memory is also published with more information and details in case it could be useful to check it. The file is: **memory.pdf**.
 
 ## Cite
 Thanks for reading! If you find it useful, feel free to use it. You can cite it as:
