@@ -7,7 +7,7 @@ The implementation has been carried out in a notebook with the option to run it 
 **inside_distilbert.ipynb**.
 
 ## Implemented Models
-BERT and DistilBERT models are implemented to solve _Multiclass classification_ and _Multilabel classification_. Their parameters and training arguments are stored in their respective folders to be able to load them for future use, as well as used tokenizers. Mention the saved implementations correspond with the model trained until the specified epoch in the name. For example, _bert-ep3_ corresponds with a bert model trained until epoch 3, since it is the one which performs better respect the 4 trained versions, one per epoch. Everything is inside **models** folder.
+BERT and DistilBERT models are implemented to solve _Multiclass classification_ and _Multilabel classification_. Their parameters and training arguments are stored in their respective folders to be able to load them for future use, as well as used tokenizers. Mention the saved implementations correspond with the model trained until the specified epoch in the name. For example, _bert-ep3_ corresponds with a BERT model trained until epoch 3, since it is the one which performs better respect the 4 trained versions, one per epoch. Everything is inside **models** folder.
 
 ## Results
 Obtained training and test results in both tasks respect both models are stored in **results** folder.
