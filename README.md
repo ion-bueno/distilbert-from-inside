@@ -10,7 +10,7 @@ The implementation has been carried out in a notebook with the option to run it 
 BERT and DistilBERT models are implemented to solve _Multiclass classification_ and _Multilabel classification_. Their parameters and training arguments are stored in their respective folders to be able to load them for future use, as well as used tokenizers. Everything is inside **models** folder.
 
 ## Results
-Obtained training and test results in both tasks and both models are stored in **results** folder.
+Obtained training and test results in both tasks and both models are stored in **results** folder. Mention the saved implementations correspond with the model trained until the specified epoch in the name, *ep-x*.
 
 ## Memory
 This work is the topic of my Master Thesis. For this reason, the memory is also published with more information and details in case it could be useful to check it. The file is: **memory.pdf**.
